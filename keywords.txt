@@ -1,0 +1,23 @@
+###########################################################
+# 语法着色：DFRobot_PAA5160E1_Q（Fermion 光学里程计）
+###########################################################
+
+DFRobot_PAA5160E1_Q_I2C	KEYWORD1
+DFRobot_PAA5160E1_Q_UART	KEYWORD1
+
+begin	KEYWORD2
+getPAA_ID	KEYWORD2
+getPAA_RevisionID	KEYWORD2
+getTotalDisplacement	KEYWORD2
+resetTotalDisplacement	KEYWORD2
+setCalibrationScale	KEYWORD2
+setCpi	KEYWORD2
+readSqual	KEYWORD2
+setOrientation	KEYWORD2
+getDeviceAddress	KEYWORD2
+
+PAA5160_OK	LITERAL1
+PAA5160_ERR_PARAM	LITERAL1
+PAA5160_ERR_IO	LITERAL1
+ePAA5160ModeI2C	LITERAL1
+ePAA5160ModeUART	LITERAL1
