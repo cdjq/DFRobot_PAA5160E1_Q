@@ -160,5 +160,4 @@ bool setOrientation(bool swapXY, bool invertX, bool invertY);
 
 ## Credits
 
-* Author: wxzed (xiao.wu@dfrobot.com)
-* Chip: PixArt PAA5160E1-Q
+Written by wxzed(xiao.wu@dfrobot.com), 2026. (Welcome to our [website](https://www.dfrobot.com/))
